@@ -1,0 +1,7 @@
+# El CV original contiene datos personales (teléfono, etc.): no se publica
+*.docx
+*.pdf
+~$*
+.vscode/
+Thumbs.db
+desktop.ini
