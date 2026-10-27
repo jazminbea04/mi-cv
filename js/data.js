@@ -9,7 +9,7 @@ const profile = {
   // Las fotos del mosaico "En acción" están en home.gallery de cada idioma.
   photos: {
     home: "./assets/images/perfil.webp",
-    about: "./assets/images/sobre-mi.jpg",
+    about: "./assets/images/sobre-mi.webp",
   },
 };
 
@@ -110,22 +110,28 @@ const cvData = {
         "De la formación a la cultura organizacional: algunos de los proyectos en los que he participado.",
       gallery: [
         {
-          image: "./assets/images/trabajo-1.webp",
-          place: "Universidad Complutense de Madrid · 2026",
-          title: "Taller de Empleabilidad y Orientación Laboral",
-          text: "Sesiones sobre búsqueda de empleo, elaboración de CV y preparación de entrevistas.",
-        },
-        {
-          image: "./assets/images/trabajo-2.jpg",
-          place: "Inversiones Rubins S.A.C. · Lima",
-          title: "Encuesta Great Place to Work",
-          text: "Charlas de sensibilización, explicación de la metodología y seguimiento de su aplicación.",
-        },
-        {
-          image: "./assets/images/trabajo-3.jpg",
-          place: "Insight Club · Perú",
+          image: "./assets/images/equipo.webp",
+          place: "Insight Club · Lima",
           title: "Consultoría de empleabilidad",
           text: "Orientación personalizada para preparar entrevistas y fortalecer perfiles profesionales.",
+        },
+        {
+          image: "./assets/images/brindis.webp",
+          place: "Insight Club · Lima",
+          title: "Trabajo en equipo",
+          text: "Sesiones de planificación para diseñar cada encuentro junto al equipo.",
+        },
+        {
+          image: "./assets/images/lanzamiento.webp",
+          place: "Insight Club · 15.10.2024",
+          title: "Lanzamiento del proyecto",
+          text: "Preparación del material gráfico y de la presentación del club.",
+        },
+        {
+          image: "./assets/images/mesa-trabajo.webp",
+          place: "Insight Club · Lima",
+          title: "Difusión en redes",
+          text: "Contenido para dar a conocer el proyecto y conectar con nuevos perfiles.",
         },
       ],
       areasEyebrow: "Especialización",
@@ -488,22 +494,28 @@ const cvData = {
         "From training to organizational culture: some of the projects I have been part of.",
       gallery: [
         {
-          image: "./assets/images/trabajo-1.webp",
-          place: "Universidad Complutense de Madrid · 2026",
-          title: "Employability and Career Guidance Workshop",
-          text: "Sessions on job searching, CV writing and interview preparation.",
-        },
-        {
-          image: "./assets/images/trabajo-2.jpg",
-          place: "Inversiones Rubins S.A.C. · Lima",
-          title: "Great Place to Work survey",
-          text: "Awareness talks, methodology briefings and follow-up of the survey rollout.",
-        },
-        {
-          image: "./assets/images/trabajo-3.jpg",
-          place: "Insight Club · Peru",
+          image: "./assets/images/equipo.webp",
+          place: "Insight Club · Lima",
           title: "Employability consultancy",
           text: "Personalized guidance to prepare interviews and strengthen professional profiles.",
+        },
+        {
+          image: "./assets/images/brindis.webp",
+          place: "Insight Club · Lima",
+          title: "Teamwork",
+          text: "Planning sessions to design each meetup together with the team.",
+        },
+        {
+          image: "./assets/images/lanzamiento.webp",
+          place: "Insight Club · 15.10.2024",
+          title: "Project launch",
+          text: "Preparing the visual materials and the club's presentation.",
+        },
+        {
+          image: "./assets/images/mesa-trabajo.webp",
+          place: "Insight Club · Lima",
+          title: "Social media outreach",
+          text: "Content to spread the word about the project and reach new profiles.",
         },
       ],
       areasEyebrow: "Expertise",

@@ -4,11 +4,11 @@ Web estática (HTML + CSS + JS, sin dependencias ni fuentes externas), en españ
 
 ## Inicio rápido
 1. Abre la carpeta en VS Code y lanza `index.html` con Live Server (o ábrelo en el navegador).
-2. **Fotos** (ahora hay imágenes de ejemplo):
+2. **Fotos**:
    - Portada: sustituye `assets/images/perfil.webp` (vertical, aprox. 4:5).
-   - Sobre mí: sustituye `assets/images/sobre-mi.jpg` (otra foto distinta, vertical).
+   - Sobre mí: sustituye `assets/images/sobre-mi.webp` (otra foto distinta, vertical).
      Las rutas están en `profile.photos` de `js/data.js`. Si una foto no se encuentra, se muestran las iniciales «JQ».
-   - Mosaico «En acción» de la portada: sustituye `trabajo-1.webp`, `trabajo-2.jpg` y `trabajo-3.jpg`.
+   - Mosaico «En acción» de la portada: fotos `equipo.webp`, `brindis.webp`, `lanzamiento.webp` y `mesa-trabajo.webp`.
      Las fotos rotan entre las tres casillas cada 4,5 s. Las leyendas se editan en `home.gallery` de
      `js/data.js`, y se pueden añadir más fotos agregando elementos a esa lista.
 3. Usa el menú para navegar y el botón EN/ES para cambiar de idioma.
