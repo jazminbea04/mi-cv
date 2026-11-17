@@ -47,7 +47,7 @@ const cvData = {
       },
       "sobre-mi": {
         eyebrow: "Sobre mí",
-        title: "Psicología al servicio de las personas y la organización",
+        title: "Personas, talento y gestión que generan impacto",
         lead: "Una trayectoria en Recursos Humanos construida en Perú y España, entre la gestión administrativa y el acompañamiento a las personas.",
       },
       experiencia: {
@@ -93,7 +93,6 @@ const cvData = {
         "Restaurant Brands Europe",
         "Multitop S.A.C.",
         "Inversiones Rubins S.A.C.",
-        "Universidad Complutense de Madrid",
         "Insight Club",
       ],
       impactEyebrow: "Impacto",
@@ -165,16 +164,16 @@ const cvData = {
     },
     about: {
       paragraphs: [
-        "Soy Jazmin Beatriz Quispe Berrocal, licenciada en Psicología y profesional de Recursos Humanos con más de dos años de experiencia en Payroll & HR Administration, Talent Acquisition y People & Culture, desarrollada en Perú y España.",
-        "Actualmente me especializo en administración laboral y nóminas en un entorno multiempresa de más de 30 sociedades y 7.000 empleados, donde participo en el ciclo completo de nómina y en la gestión administrativa del personal.",
-        "Mi experiencia incluye la implementación de políticas de desarrollo, la evaluación del desempeño y proyectos de clima organizacional, con resultados medibles en retención, satisfacción y eficiencia de selección.",
+        "Soy Jazmin Beatriz Quispe Berrocal, profesional de Recursos Humanos con experiencia en Payroll & HR Administration, Talent Acquisition y People & Culture, desarrollada en Perú y España.",
+        "Actualmente me especializo en administración de personal y nóminas en un entorno de más de 30 sociedades y 7.000 empleados, participando en procesos de gestión laboral, cumplimiento normativo y mejora administrativa.",
+        "Mi trayectoria también incluye proyectos de selección, desarrollo del talento, evaluación del desempeño y cultura organizacional, combinando una visión humana con un enfoque orientado a resultados.",
       ],
       badge: { value: "2+ años", label: "acompañando a personas y equipos" },
-      quote: "Detrás de cada nómina, contrato o proceso de selección hay una persona.",
+      quote: "Detrás de cada proceso hay personas, y detrás de una buena gestión, oportunidades de crecimiento.",
       factsTitle: "En resumen",
       facts: [
         ["Ubicación", "Madrid, España"],
-        ["Formación", "Psicología · Máster UCM en curso"],
+        ["Formación", "Psicología · Máster UCM culminado"],
         ["Experiencia", "Perú y España"],
         ["Idiomas", "Español nativo · Inglés intermedio"],
       ],
@@ -276,7 +275,7 @@ const cvData = {
       {
         institution: "Universidad Complutense de Madrid",
         title: "Máster en Psicología del Trabajo, de las Organizaciones y Gestión de Recursos Humanos",
-        dates: "2025 – Actualidad",
+        dates: "2025 – 2026",
       },
       {
         institution: "Universidad Femenina del Sagrado Corazón (UNIFÉ)",
@@ -431,7 +430,7 @@ const cvData = {
       },
       "sobre-mi": {
         eyebrow: "About me",
-        title: "Psychology in service of people and organizations",
+        title: "People, talent and management that create impact",
         lead: "A Human Resources career built in Peru and Spain, combining HR administration with supporting people.",
       },
       experiencia: {
@@ -477,7 +476,6 @@ const cvData = {
         "Restaurant Brands Europe",
         "Multitop S.A.C.",
         "Inversiones Rubins S.A.C.",
-        "Universidad Complutense de Madrid",
         "Insight Club",
       ],
       impactEyebrow: "Impact",
@@ -549,16 +547,16 @@ const cvData = {
     },
     about: {
       paragraphs: [
-        "I’m Jazmin Beatriz Quispe Berrocal, a Psychology graduate and Human Resources professional with over two years of experience in Payroll & HR Administration, Talent Acquisition and People & Culture, gained in Peru and Spain.",
-        "I currently specialize in HR administration and payroll in a multi-company environment of more than 30 companies and 7,000 employees, taking part in the full payroll cycle and employee administration.",
-        "My experience includes implementing development policies, performance reviews and workplace climate projects, with measurable results in retention, satisfaction and recruitment efficiency.",
+        "I’m Jazmin Beatriz Quispe Berrocal, a Human Resources professional with experience in Payroll & HR Administration, Talent Acquisition and People & Culture, gained in Peru and Spain.",
+        "I currently specialize in employee administration and payroll in an environment of more than 30 companies and 7,000 employees, taking part in labour management, regulatory compliance and administrative improvement processes.",
+        "My background also includes recruitment, talent development, performance review and organizational culture projects, combining a human perspective with a results-driven approach.",
       ],
       badge: { value: "2+ years", label: "supporting people and teams" },
-      quote: "Behind every payslip, contract or hiring process there is a person.",
+      quote: "Behind every process there are people, and behind good management, opportunities for growth.",
       factsTitle: "At a glance",
       facts: [
         ["Location", "Madrid, Spain"],
-        ["Education", "Psychology · UCM Master’s in progress"],
+        ["Education", "Psychology · UCM Master’s completed"],
         ["Experience", "Peru and Spain"],
         ["Languages", "Native Spanish · Intermediate English"],
       ],
@@ -660,7 +658,7 @@ const cvData = {
       {
         institution: "Universidad Complutense de Madrid",
         title: "Master’s in Work and Organizational Psychology and Human Resources Management",
-        dates: "2025 – Present",
+        dates: "2025 – 2026",
       },
       {
         institution: "Universidad Femenina del Sagrado Corazón (UNIFÉ)",
